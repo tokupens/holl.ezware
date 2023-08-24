@@ -36,8 +36,8 @@ def clear():
                                
                     hollez.ware - ransomware xd
                     
-"""+blue+"""Disclaimer	"""+yellow+""":"""+red+""" This tool is for educational purposes only. I am not responsible for your harmful actions!
-"""+blue+"""Author		"""+yellow+""":"""+red+""" Justakazh / https://github.com/justakazh 
+"""+blue+"""Disclaimer	"""+yellow+""":"""+red+""" tool hacker buat belajar ya dek. lu ditangkap ccic diluar tanggung jawab gua!
+"""+blue+"""Author		"""+yellow+""":"""+red+""" Justakazh / https://github.com/tokupens 
 
 """+white)
 
